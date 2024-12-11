@@ -1,0 +1,5 @@
+0,0.034*"energy" + 0.015*"fossil" + 0.014*"production" + 0.013*"emissions" + 0.010*"carbon" + 0.008*"fuels" + 0.008*"emission" + 0.007*"renewable" + 0.007*"fuel" + 0.006*"model",
+1,0.026*"energy" + 0.010*"fuel" + 0.010*"renewable" + 0.009*"fossil" + 0.008*"electricity" + 0.008*"power" + 0.007*"systems" + 0.007*"fuels" + 0.006*"rate" + 0.006*"oil",
+2,0.017*"fuel" + 0.012*"subsidies" + 0.011*"emissions" + 0.011*"oil" + 0.010*"fossil" + 0.010*"price" + 0.010*"consumption" + 0.010*"prices" + 0.010*"energy" + 0.009*"gas",
+3,0.063*"energy" + 0.013*"consumption" + 0.013*"carbon" + 0.013*"emissions" + 0.011*"demand" + 0.008*"fossil" + 0.008*"renewable" + 0.007*"economic" + 0.007*"model" + 0.007*"future",
+4,0.023*"energy" + 0.017*"emissions" + 0.015*"climate" + 0.013*"carbon" + 0.013*"consumption" + 0.013*"gas" + 0.012*"electricity" + 0.011*"change" + 0.009*"coal" + 0.008*"fossil",

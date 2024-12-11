@@ -1,0 +1,5 @@
+0,0.023*robot + 0.019*system + 0.017*control + 0.017*architecture + 0.010*robots + 0.007*systems + 0.006*mobile + 0.006*design + 0.005*robotic + 0.005*software,
+1,0.023*robot + 0.016*architecture + 0.014*system + 0.012*control + 0.009*robots + 0.008*human + 0.007*model + 0.007*learning + 0.006*systems + 0.005*environment,
+2,0.022*robot + 0.016*architecture + 0.015*system + 0.015*control + 0.009*robots + 0.007*systems + 0.006*design + 0.005*human + 0.005*mobile + 0.005*robotic,
+3,0.019*robot + 0.016*architecture + 0.015*system + 0.011*control + 0.008*robots + 0.006*real + 0.006*systems + 0.006*model + 0.005*data + 0.005*learning,
+4,0.021*robot + 0.016*system + 0.016*architecture + 0.015*control + 0.009*robots + 0.006*design + 0.006*systems + 0.005*mobile + 0.005*used + 0.005*model,

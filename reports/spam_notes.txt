@@ -1,0 +1,26 @@
+# no harm in sensitivity, but loosely relevant
+False Positive (5)
+False Positive (5)
+False Positive (1)
+
+# nuisance hyper-sensitivity
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+False Positive (0)
+
+# would have missed highly relevant papers
+False Negative (9)
+False Negative (9)
+False Negative (9)
+False Negative (9)
+

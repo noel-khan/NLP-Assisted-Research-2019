@@ -1,0 +1,4 @@
+0,0.015*"imitation" + 0.013*"social" + 0.011*"network" + 0.011*"functional" + 0.010*"compatibility" + 0.009*"task" + 0.009*"brain" + 0.008*"body" + 0.008*"sex" + 0.007*"neuroscience",
+1,0.036*"antenna" + 0.031*"antennas" + 0.017*"array" + 0.014*"lens" + 0.013*"vol" + 0.012*"beam" + 0.010*"propag" + 0.009*"band" + 0.008*"scanning" + 0.008*"ieee",
+2,0.036*"doi" + 0.019*"org" + 0.018*"https" + 0.012*"stimulation" + 0.011*"brain" + 0.011*"cognitive" + 0.010*"effects" + 0.009*"task" + 0.008*"pmid_pmcid" + 0.008*"pmid",
+3,0.017*"liquid" + 0.015*"electricity" + 0.011*"cost" + 0.011*"water" + 0.011*"transformer" + 0.010*"power" + 0.009*"energy" + 0.009*"sector" + 0.009*"data" + 0.009*"vol",

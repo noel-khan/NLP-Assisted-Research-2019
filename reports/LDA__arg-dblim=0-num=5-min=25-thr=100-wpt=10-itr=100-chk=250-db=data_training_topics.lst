@@ -1,0 +1,5 @@
+0,0.024*"control" + 0.022*"controller" + 0.012*"functional" + 0.010*"performance" + 0.010*"non" + 0.010*"architecture" + 0.010*"modular" + 0.010*"dynamics" + 0.010*"system" + 0.008*"architectures",
+1,0.017*"control" + 0.014*"model" + 0.012*"robot" + 0.012*"cerebellar" + 0.011*"robotic" + 0.011*"system" + 0.009*"different" + 0.009*"learning" + 0.009*"neural" + 0.008*"error",
+2,0.026*"features" + 0.015*"neural" + 0.012*"protein" + 0.010*"network" + 0.010*"arm" + 0.010*"architecture" + 0.010*"gates" + 0.010*"proteins" + 0.010*"classification" + 0.008*"activity",
+3,0.742*"null" + 0.003*"appears" + 0.003*"positive" + 0.003*"affect" + 0.003*"emotions" + 0.001*"viewed" + 0.001*"cognitive" + 0.001*"understood" + 0.001*"aspect" + 0.001*"animal",
+4,0.022*"control" + 0.014*"learning" + 0.014*"architecture" + 0.012*"system" + 0.010*"order" + 0.010*"model" + 0.008*"mosaic" + 0.007*"self" + 0.007*"models" + 0.007*"strategies",

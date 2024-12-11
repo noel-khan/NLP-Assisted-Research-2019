@@ -1,0 +1,5 @@
+0,0.016*optimization + 0.015*evolution + 0.014*differential + 0.013*vector + 0.013*population + 0.012*algorithm + 0.010*problems + 0.009*search + 0.009*mutation + 0.008*parameter,
+1,0.014*algorithm + 0.012*strategy + 0.012*evolution + 0.011*values + 0.011*problems + 0.011*parameter + 0.011*sade + 0.010*vector + 0.010*generation + 0.010*functions,
+2,0.033*solutions + 0.020*nsga + 0.016*nondominated + 0.014*population + 0.013*pareto + 0.012*optimal + 0.011*front + 0.010*algorithm + 0.010*solution + 0.009*multiobjective,
+3,0.027*ant + 0.020*ants + 0.016*problem + 0.014*trail + 0.012*algorithm + 0.012*tour + 0.009*fig + 0.008*number + 0.008*set + 0.008*search,
+4,0.023*crossover + 0.022*strings + 0.017*population + 0.015*genetic + 0.014*fitness + 0.013*string + 0.012*mutation + 0.012*selection + 0.011*gas + 0.010*schema,

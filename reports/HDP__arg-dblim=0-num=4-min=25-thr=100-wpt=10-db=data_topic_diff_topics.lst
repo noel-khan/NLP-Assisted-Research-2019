@@ -1,0 +1,4 @@
+0,0.033*antennas + 0.029*antenna + 0.021*lens + 0.021*liquid + 0.016*vol + 0.012*water + 0.012*beam + 0.011*propag + 0.009*ieee_trans + 0.007*ieee,
+1,0.041*doi + 0.022*stimulation + 0.021*org + 0.021*https + 0.017*brain + 0.016*cognitive + 0.014*tms + 0.013*nibs + 0.012*neuronal + 0.012*effects,
+2,0.028*array + 0.028*antenna + 0.021*antennas + 0.017*band + 0.016*scanning + 0.012*ghz + 0.012*gain + 0.009*plane + 0.009*ieee + 0.008*vol,
+3,0.022*overlap + 0.021*representations + 0.018*doi + 0.015*similarity + 0.015*location + 0.014*endpoints + 0.013*participants + 0.011*video + 0.011*rsc + 0.011*phc,

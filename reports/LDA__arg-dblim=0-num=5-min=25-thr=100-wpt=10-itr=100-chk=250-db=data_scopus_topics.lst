@@ -1,0 +1,5 @@
+0,0.033*"robot" + 0.024*"architecture" + 0.023*"control" + 0.019*"robots" + 0.018*"system" + 0.017*"mobile" + 0.014*"autonomous" + 0.013*"environment" + 0.012*"planning" + 0.011*"task",
+1,0.045*"control" + 0.031*"robot" + 0.016*"architecture" + 0.016*"system" + 0.014*"controller" + 0.011*"motion" + 0.010*"design" + 0.008*"force" + 0.007*"results" + 0.007*"manipulator",
+2,0.021*"network" + 0.017*"data" + 0.014*"system" + 0.013*"neural" + 0.012*"architecture" + 0.012*"algorithm" + 0.011*"vision" + 0.010*"processing" + 0.009*"image" + 0.009*"networks",
+3,0.030*"robot" + 0.024*"human" + 0.019*"learning" + 0.018*"architecture" + 0.013*"model" + 0.012*"interaction" + 0.010*"cognitive" + 0.010*"robots" + 0.008*"behavior" + 0.007*"system",
+4,0.026*"system" + 0.020*"architecture" + 0.018*"robot" + 0.017*"systems" + 0.016*"software" + 0.013*"design" + 0.012*"robots" + 0.011*"control" + 0.010*"robotic" + 0.009*"development",
